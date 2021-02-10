@@ -1,9 +1,9 @@
 import { useState } from 'react'
 function Home() {
     return <div>
-        <h1>Bem vindo ao contador</h1>
+        <h1>Bem vindo ao contador </h1>
         <Contador />
-        <div>Teste</div>
+        <div>Teste teste</div>
     </div>
 }
 
